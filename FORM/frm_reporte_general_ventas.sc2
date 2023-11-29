@@ -331,6 +331,9 @@ DEFINE CLASS frmreportegeneralventas AS form
 		thisform.gResultado.RecordSource = "TEMP_VENTAS"
 		
 		* HOLA ESTA ES UNA PRUEBA
+		
+		** prueba de comentario agregado en 29/11/2023 09:51 A.M.
+		
 	ENDPROC
 
 	PROCEDURE btnImprimir.Click
